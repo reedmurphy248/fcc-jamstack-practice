@@ -1,3 +1,4 @@
+
 const vibes = [
     "... you are awesome!",
     "... have a wonderful day!",
